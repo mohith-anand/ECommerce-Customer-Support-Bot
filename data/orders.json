@@ -1,0 +1,22 @@
+[
+  {"order_id": "1001", "customer": "Ali", "product": "Smartphone X", "status": "Shipped", "shipping_date": "2025-12-05", "delivery_estimate": "2025-12-08"},
+  {"order_id": "1002", "customer": "Sara", "product": "Laptop Pro", "status": "Processing", "shipping_date": "2025-12-07", "delivery_estimate": "2025-12-10"},
+  {"order_id": "1003", "customer": "Rohit", "product": "Headphones Z", "status": "Delivered", "shipping_date": "2025-11-28", "delivery_estimate": "2025-12-01"},
+  {"order_id": "1004", "customer": "Aisha", "product": "Smartwatch A", "status": "Returned", "shipping_date": "2025-11-25", "delivery_estimate": "2025-11-28"},
+  {"order_id": "1005", "customer": "Rahul", "product": "Tablet T", "status": "Processing", "shipping_date": "2025-12-06", "delivery_estimate": "2025-12-09"},
+  {"order_id": "1006", "customer": "Nina", "product": "Camera C", "status": "Delivered", "shipping_date": "2025-11-30", "delivery_estimate": "2025-12-03"},
+  {"order_id": "1007", "customer": "Omar", "product": "Laptop Pro", "status": "Shipped", "shipping_date": "2025-12-04", "delivery_estimate": "2025-12-07"},
+  {"order_id": "1008", "customer": "Fatima", "product": "Smartphone X", "status": "Cancelled", "shipping_date": "2025-12-03", "delivery_estimate": "2025-12-06"},
+  {"order_id": "1009", "customer": "Samir", "product": "Headphones Z", "status": "Returned", "shipping_date": "2025-11-29", "delivery_estimate": "2025-12-02"},
+  {"order_id": "1010", "customer": "Leila", "product": "Smartwatch A", "status": "Processing", "shipping_date": "2025-12-07", "delivery_estimate": "2025-12-10"},
+  {"order_id": "1011", "customer": "Imran", "product": "Tablet T", "status": "Delivered", "shipping_date": "2025-11-27", "delivery_estimate": "2025-11-30"},
+  {"order_id": "1012", "customer": "Zara", "product": "Camera C", "status": "Shipped", "shipping_date": "2025-12-05", "delivery_estimate": "2025-12-08"},
+  {"order_id": "1013", "customer": "Adil", "product": "Smartphone X", "status": "Processing", "shipping_date": "2025-12-06", "delivery_estimate": "2025-12-09"},
+  {"order_id": "1014", "customer": "Maya", "product": "Laptop Pro", "status": "Delivered", "shipping_date": "2025-11-26", "delivery_estimate": "2025-11-29"},
+  {"order_id": "1015", "customer": "Rana", "product": "Headphones Z", "status": "Processing", "shipping_date": "2025-12-07", "delivery_estimate": "2025-12-10"},
+  {"order_id": "1016", "customer": "Omar", "product": "Smartwatch A", "status": "Shipped", "shipping_date": "2025-12-04", "delivery_estimate": "2025-12-07"},
+  {"order_id": "1017", "customer": "Lina", "product": "Tablet T", "status": "Returned", "shipping_date": "2025-11-25", "delivery_estimate": "2025-11-28"},
+  {"order_id": "1018", "customer": "Khalid", "product": "Camera C", "status": "Processing", "shipping_date": "2025-12-06", "delivery_estimate": "2025-12-09"},
+  {"order_id": "1019", "customer": "Sofia", "product": "Laptop Pro", "status": "Delivered", "shipping_date": "2025-11-27", "delivery_estimate": "2025-11-30"},
+  {"order_id": "1020", "customer": "Bilal", "product": "Smartphone X", "status": "Shipped", "shipping_date": "2025-12-05", "delivery_estimate": "2025-12-08"}
+]

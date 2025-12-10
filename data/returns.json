@@ -1,0 +1,17 @@
+[
+  {"policy": "Products can be returned within 14 days of delivery."},
+  {"policy": "Refunds are processed within 5 business days after receiving the returned item."},
+  {"policy": "Products must be unused and in original packaging."},
+  {"policy": "Electronics and personalized items are non-returnable."},
+  {"policy": "If a return is due to a defective item, we cover shipping costs."},
+  {"policy": "Return requests must include the original receipt or order ID."},
+  {"policy": "Partial refunds are not provided for used items."},
+  {"policy": "Refunds are processed using the original payment method."},
+  {"policy": "Exchanges are allowed for items of equal value only."},
+  {"policy": "Sale items can be returned within 7 days of delivery."},
+  {"policy": "Items must be securely packaged to prevent damage during return shipping."},
+  {"policy": "Return shipping labels are provided for all eligible returns."},
+  {"policy": "Customer support will approve the return before shipment."},
+  {"policy": "Damaged items reported within 48 hours are eligible for immediate refund."},
+  {"policy": "Gift items can be returned for store credit only."}
+]

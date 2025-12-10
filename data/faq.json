@@ -1,0 +1,22 @@
+[
+  {"question": "What are the payment options?", "answer": "We accept credit/debit cards, PayPal, Apple Pay, and gift cards."},
+  {"question": "Do you ship internationally?", "answer": "Yes, we ship to UAE, India, and select countries worldwide."},
+  {"question": "Can I change my shipping address?", "answer": "You can change the address within 24 hours of placing the order."},
+  {"question": "How do I reset my account password?", "answer": "Go to Account Settings → Reset Password and follow instructions."},
+  {"question": "What is your return policy?", "answer": "Products can be returned within 14 days of delivery if unused and in original packaging."},
+  {"question": "How long does delivery take?", "answer": "Delivery usually takes 2–5 business days depending on location."},
+  {"question": "Can I track my order?", "answer": "Yes, you can track your order using your Order ID on our website."},
+  {"question": "Are there shipping charges?", "answer": "Free shipping is available for orders above $50. Otherwise, standard rates apply."},
+  {"question": "How do I contact customer support?", "answer": "You can contact us via email, live chat, or call our helpline during business hours."},
+  {"question": "Do you provide gift wrapping?", "answer": "Yes, gift wrapping is available at checkout for selected products."},
+  {"question": "Can I cancel my order?", "answer": "Orders can be cancelled within 24 hours of placement if not shipped."},
+  {"question": "Do you offer discounts for bulk purchases?", "answer": "Yes, please contact sales support for bulk order discounts."},
+  {"question": "Are your products covered by warranty?", "answer": "Yes, all electronics come with a 1-year manufacturer warranty."},
+  {"question": "Can I change my payment method after placing an order?", "answer": "Payment method can be updated before the order is processed."},
+  {"question": "Do you have a loyalty program?", "answer": "Yes, earn points for every purchase and redeem them on future orders."},
+  {"question": "How can I check product availability?", "answer": "Product availability is shown on the product page in real-time."},
+  {"question": "Do you offer same-day delivery?", "answer": "Same-day delivery is available for select locations and products."},
+  {"question": "Can I request a gift receipt?", "answer": "Yes, you can select gift receipt option at checkout."},
+  {"question": "How do I apply a discount code?", "answer": "Enter the code at checkout to apply the discount."},
+  {"question": "Do you offer international returns?", "answer": "Yes, international returns are accepted within 14 days following our policy."}
+]

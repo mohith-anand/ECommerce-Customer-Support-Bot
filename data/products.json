@@ -1,0 +1,22 @@
+[
+  {"product_id": "P1001", "name": "Smartphone X", "stock": 25, "price": 1200, "category": "Mobile", "description": "Latest smartphone with OLED display, 128GB storage, dual camera."},
+  {"product_id": "P1002", "name": "Laptop Pro", "stock": 10, "price": 2500, "category": "Laptop", "description": "Powerful laptop with 16GB RAM, 512GB SSD, and 15-inch display."},
+  {"product_id": "P1003", "name": "Headphones Z", "stock": 50, "price": 150, "category": "Audio", "description": "Noise-cancelling over-ear headphones with 20-hour battery life."},
+  {"product_id": "P1004", "name": "Smartwatch A", "stock": 30, "price": 300, "category": "Wearable", "description": "Fitness smartwatch with heart rate monitor, GPS, and step tracking."},
+  {"product_id": "P1005", "name": "Tablet T", "stock": 15, "price": 600, "category": "Tablet", "description": "10-inch tablet with 64GB storage, ideal for reading and streaming."},
+  {"product_id": "P1006", "name": "Camera C", "stock": 12, "price": 850, "category": "Camera", "description": "Mirrorless camera with 24MP sensor and 4K video recording."},
+  {"product_id": "P1007", "name": "Bluetooth Speaker B", "stock": 40, "price": 120, "category": "Audio", "description": "Portable Bluetooth speaker with deep bass and waterproof design."},
+  {"product_id": "P1008", "name": "Gaming Mouse G", "stock": 35, "price": 80, "category": "Accessories", "description": "Ergonomic gaming mouse with customizable buttons and RGB lights."},
+  {"product_id": "P1009", "name": "Keyboard K", "stock": 50, "price": 60, "category": "Accessories", "description": "Mechanical keyboard with backlight and quiet keys."},
+  {"product_id": "P1010", "name": "Wireless Charger W", "stock": 20, "price": 40, "category": "Accessories", "description": "Fast wireless charger compatible with all Qi devices."},
+  {"product_id": "P1011", "name": "Fitness Band F", "stock": 30, "price": 70, "category": "Wearable", "description": "Track your steps, sleep, and heart rate with this smart band."},
+  {"product_id": "P1012", "name": "Laptop Stand L", "stock": 25, "price": 35, "category": "Accessories", "description": "Adjustable aluminum laptop stand for better ergonomics."},
+  {"product_id": "P1013", "name": "Portable Hard Drive H", "stock": 20, "price": 100, "category": "Storage", "description": "1TB portable hard drive with fast USB 3.0 transfer."},
+  {"product_id": "P1014", "name": "Noise Cancelling Earbuds N", "stock": 40, "price": 130, "category": "Audio", "description": "Wireless earbuds with active noise cancellation and long battery life."},
+  {"product_id": "P1015", "name": "Smart Light Bulb S", "stock": 60, "price": 25, "category": "Home", "description": "Smart LED bulb compatible with Alexa and Google Home."},
+  {"product_id": "P1016", "name": "4K TV T", "stock": 8, "price": 1500, "category": "TV & Home", "description": "55-inch 4K UHD Smart TV with HDR and streaming apps."},
+  {"product_id": "P1017", "name": "Coffee Maker C", "stock": 12, "price": 90, "category": "Home", "description": "Programmable coffee maker with 12-cup capacity."},
+  {"product_id": "P1018", "name": "Robot Vacuum R", "stock": 10, "price": 400, "category": "Home", "description": "Smart robot vacuum with automatic scheduling and mapping."},
+  {"product_id": "P1019", "name": "Air Purifier A", "stock": 15, "price": 200, "category": "Home", "description": "HEPA air purifier for rooms up to 400 sq ft."},
+  {"product_id": "P1020", "name": "Gaming Chair G", "stock": 7, "price": 350, "category": "Furniture", "description": "Ergonomic gaming chair with lumbar support and recline function."}
+]

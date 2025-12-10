@@ -1,0 +1,41 @@
+# .gitignore
+
+# Virtual Environment
+.ECO/
+ECO/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Project-Specific
+vectorstore/
+vectorstore/**/*.bin
+vectorstore/**/*.npy
+models/
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
