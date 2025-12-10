@@ -2,10 +2,6 @@
 
 An AI-powered customer support chatbot built using RAG (Retrieval-Augmented Generation) + LLM, designed to handle complex customer queries like order tracking, cancellations, returns, and defective products.
 
-![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo1.png)
-
-![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo2.png)
-
 ## 📋 Overview
 
 This system provides accurate, context-aware responses and includes features to support both end-users and supervising agents. The project demonstrates real-world AI deployment for customer support, showing how LLMs can be augmented with a knowledge base for precise, explainable answers.
@@ -16,12 +12,16 @@ This system provides accurate, context-aware responses and includes features to 
 - Simple, visually appealing chat interface
 - Handles real-time queries with relevant responses
 - Escalation suggestions for critical or unresolved issues
+  
+![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo1.png)
 
 ### Agent Mode (Supervisor Mode)
 - Displays intent, sentiment, and escalation status for each query
 - Shows retrieved documents that informed the AI response
 - Helps human agents oversee, validate, and intervene when necessary
 - Provides context awareness for accurate support handling
+  
+![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo2.png)
 
 ### AI & Retrieval
 - Uses a Retrieval-Augmented Generation (RAG) pipeline for precise answers
@@ -36,6 +36,31 @@ This system provides accurate, context-aware responses and includes features to 
 - **LLM** - Generative responses
 - **Pandas** - Data handling
 - **GitHub** - Version control
+
+## 📁 Project Structure
+
+```
+customer-support-bot/
+├── app.py                         # Main Streamlit chatbot app
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project documentation
+├── .gitignore                     # Git ignore rules
+│
+├── src/                           # Source modules
+│   ├── llm.py                     # Gemini API integration
+│   ├── rag.py                     # FAISS retrieval functions
+│   └── utils.py                   # Helper utilities (file loading, text cleaning)
+│
+├── data/                          # Knowledge base documents
+│   ├── faq.json                   # FAQ & common issues
+│   ├── orders.json                # Order-related info
+│   ├── products.json              # Product information
+│   └── returns.json               # Return & refund policies
+│
+└── vectorstore/                   # FAISS indexes (auto-generated, git-ignored)
+    ├── faiss_index.bin
+    └── texts.npy
+```
 
 ## 📦 Setup & Installation
 
@@ -101,29 +126,6 @@ streamlit run app.py
 - **Retrieval Dataset:** Simulated order data, product info, and FAQ documents
 - **Note:** This project demonstrates how AI can augment human customer support. All data used is synthetic or anonymized.
 
-## 📁 Project Structure
 
-```
-customer-support-bot/
-├── app.py                         # Main Streamlit chatbot app
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
-├── .gitignore                     # Git ignore rules
-│
-├── src/                           # Source modules
-│   ├── llm.py                     # Gemini API integration
-│   ├── rag.py                     # FAISS retrieval functions
-│   └── utils.py                   # Helper utilities (file loading, text cleaning)
-│
-├── data/                          # Knowledge base documents
-│   ├── faq.json                   # FAQ & common issues
-│   ├── orders.json                # Order-related info
-│   ├── products.json              # Product information
-│   └── returns.json               # Return & refund policies
-│
-└── vectorstore/                   # FAISS indexes (auto-generated, git-ignored)
-    ├── faiss_index.bin
-    └── texts.npy
-```
 
-**Built with ❤️ for better customer support automation**
+  **Built with ❤️ for better customer support automation**
