@@ -2,6 +2,10 @@
 
 An AI-powered customer support chatbot built using RAG (Retrieval-Augmented Generation) + LLM, designed to handle complex customer queries like order tracking, cancellations, returns, and defective products.
 
+![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo1.png)
+
+![image alt](https://github.com/mohith-anand/ECommerce-Customer-Support-Bot/blob/e9caefde61e80ec5ce65ae532d772d28f11c349a/Demo2.png)
+
 ## 📋 Overview
 
 This system provides accurate, context-aware responses and includes features to support both end-users and supervising agents. The project demonstrates real-world AI deployment for customer support, showing how LLMs can be augmented with a knowledge base for precise, explainable answers.
